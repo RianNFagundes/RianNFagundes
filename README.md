@@ -1,16 +1,17 @@
-## Hi there 👋
+# Rian Nascimento Fagundes
 
-<!--
-**RianNFagundes/RianNFagundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Operações de frota · Análise de dados · Automação de processos**
 
-Here are some ideas to get you started:
+Curso Ciência da Computação na UNIP e atuo como assistente administrativo de frota. Uso Excel, Power Query, Power BI e Google Apps Script para organizar dados, acompanhar indicadores e simplificar rotinas de transporte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Aplicações práticas
+
+- **Registro digital de viagens** — desenvolvi um aplicativo com Google Apps Script e Google Planilhas para registrar deslocamentos, quilometragem inicial e final e abastecimentos, com consolidação em relatórios.
+- **Controle de inspeções de pneus** — aprimorei uma planilha de acompanhamento com a data da última inspeção e o cálculo de dias decorridos por veículo para apoiar a programação semanal.
+- **Acompanhamento de frota** — acompanho abastecimentos, consumo de combustível, manutenções preventivas e corretivas e vencimentos de documentos veiculares.
+
+## Ferramentas e experiência
+
+- **Dados e indicadores** — Excel, Power Query e Power BI.
+- **Automação** — Google Apps Script e Google Planilhas.
+- **Sistemas operacionais** — Petroshow nas rotinas de frota e SAP na baixa de notas fiscais.
