@@ -1,6 +1,6 @@
 # Rian Nascimento Fagundes
 
-Curso Ciência da Computação na UNIP e trabalho como assistente administrativo de frota. No dia a dia, acompanho abastecimentos, manutenção e vencimento de documentos. Uso Excel, Power Query e Power BI para organizar os controles e acompanhar os indicadores.
+Trabalho como assistente administrativo de frota e curso Ciência da Computação na UNIP. Acompanho consumo, manutenção preventiva, inspeções de pneus e documentação veicular. Busco oportunidades júnior em frota, logística, operações, processos ou dados. Neste portfólio, mostro como uso planilhas, automação e Python para resolver problemas dessas rotinas.
 
 ## Projetos
 
