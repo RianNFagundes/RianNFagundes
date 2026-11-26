@@ -4,8 +4,9 @@
 
 Curso Ciência da Computação na UNIP e atuo como assistente administrativo de frota. Uso Excel, Power Query, Power BI e Google Apps Script para organizar dados, acompanhar indicadores e simplificar rotinas de transporte.
 
-## Projeto acadêmico
+## Projetos
 
+- **[Análise de frota](https://github.com/RianNFagundes/analise-de-frota)** — demonstração em Python de consumo por veículo e priorização de inspeções de pneus, com dados fictícios.
 - **[MedSinc](https://github.com/RianNFagundes/MedSinc)** — TCC desenvolvido em equipe na UNIP. Sistema web de gestão de plantões médicos com React, TypeScript, Flask e MySQL.
 
 ## Aplicações práticas
@@ -19,3 +20,9 @@ Curso Ciência da Computação na UNIP e atuo como assistente administrativo de 
 - **Dados e indicadores** — Excel, Power Query e Power BI.
 - **Automação** — Google Apps Script e Google Planilhas.
 - **Sistemas operacionais** — Petroshow nas rotinas de frota e SAP na baixa de notas fiscais.
+
+## Formação complementar
+
+- Power BI — 72 h.
+- Excel Avançado — 30 h.
+- Fundamentos de Engenharia de Dados — 24 h, Data Science Academy.
