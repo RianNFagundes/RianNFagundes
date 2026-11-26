@@ -1,28 +1,20 @@
 # Rian Nascimento Fagundes
 
-**Operações de frota · Análise de dados · Automação de processos**
-
-Curso Ciência da Computação na UNIP e atuo como assistente administrativo de frota. Uso Excel, Power Query, Power BI e Google Apps Script para organizar dados, acompanhar indicadores e simplificar rotinas de transporte.
+Curso Ciência da Computação na UNIP e trabalho como assistente administrativo de frota. No dia a dia, acompanho abastecimentos, manutenção e vencimento de documentos. Uso Excel, Power Query e Power BI para organizar os controles e acompanhar os indicadores.
 
 ## Projetos
 
-- **[Análise de frota](https://github.com/RianNFagundes/analise-de-frota)** — demonstração em Python de consumo por veículo e priorização de inspeções de pneus, com dados fictícios.
-- **[MedSinc](https://github.com/RianNFagundes/MedSinc)** — TCC desenvolvido em equipe na UNIP. Sistema web de gestão de plantões médicos com React, TypeScript, Flask e MySQL.
+- **[Controle de viagens da Saveiro](https://github.com/RianNFagundes/controle-viagens-saveiro)** · Desenvolvi o formulário de saída e retorno em Google Apps Script e Google Planilhas. O repositório tem uma versão para testar no navegador.
+- **[Análise de frota](https://github.com/RianNFagundes/analise-de-frota)** · Notebook em Python com cálculo de km/L e uma fila de inspeções de pneus montada a partir de dados fictícios.
+- **[MedSinc](https://github.com/RianNFagundes/MedSinc)** · TCC em equipe na UNIP sobre gestão de plantões médicos. O repositório reúne os links para o frontend e o backend originais.
 
-## Aplicações práticas
+## Experiência prática
 
-- **[Registro digital de viagens da Saveiro](https://github.com/RianNFagundes/controle-viagens-saveiro)** — desenvolvi um aplicativo com Google Apps Script e Google Planilhas para registrar deslocamentos, quilometragem inicial e final e abastecimentos, com consolidação em relatórios.
-- **Controle de inspeções de pneus** — aprimorei uma planilha de acompanhamento com a data da última inspeção e o cálculo de dias decorridos por veículo para apoiar a programação semanal.
-- **Acompanhamento de frota** — acompanho abastecimentos, consumo de combustível, manutenções preventivas e corretivas e vencimentos de documentos veiculares.
-
-## Ferramentas e experiência
-
-- **Dados e indicadores** — Excel, Power Query e Power BI.
-- **Automação** — Google Apps Script e Google Planilhas.
-- **Sistemas operacionais** — Petroshow nas rotinas de frota e SAP na baixa de notas fiscais.
+- Ajustei a planilha de pneus para calcular quantos dias se passaram desde a última inspeção e ajudar na programação semanal.
+- Uso Petroshow nas rotinas de frota e já usei SAP para baixar notas fiscais.
 
 ## Formação complementar
 
-- Power BI — 72 h.
-- Excel Avançado — 30 h.
-- Fundamentos de Engenharia de Dados — 24 h, Data Science Academy.
+- Power BI (72 h)
+- Excel Avançado (30 h)
+- Fundamentos de Engenharia de Dados (24 h), Data Science Academy
